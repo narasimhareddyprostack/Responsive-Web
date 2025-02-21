@@ -1,0 +1,12 @@
+What is bootstrap?
+-most popular HTML,CSS and JS library?
+
+What is Responsive site?
+any application or site - 
+It fit to all different width devices - called Responsive
+
+
+how to enable bootstrap to your web?
+1)CDN Link
+2)Downlad and or customise and use 
+https://getbootstrap.com/
